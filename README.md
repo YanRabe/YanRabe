@@ -5,9 +5,10 @@
 
 ## ⭐ Favorite Projects to Check Out
 - **[Printer-to-Lua](https://github.com/YanRabe/Printer-to-lua)**: External app that allows anyone to generate a basic printer profile for the IceSL Slicer by team MFX.
-- **[Stitch_cycles](https://github.com/YanRabe/Stitch_cycles)**:  School project implementing a small part of MFX's method of "stitching" printing cycles to avoid artifacts from nozzle z-lifting and such while 3D Printing.
-- **[NanoSatellite_Graph_Project](https://github.com/YanRabe/NanoSatellite_Graph_Project)**: A Python-based graph theory project focusing on nanosatellite configurations.
-- 
+- **[Stitch-cycles](https://github.com/YanRabe/Stitch_cycles)**:  School project implementing a small part of MFX's method of "stitching" printing cycles to avoid artifacts from nozzle z-lifting and such while 3D Printing.
+- **[NanoSatellite Graph Analysis](https://github.com/YanRabe/NanoSatellite_Graph_Project)**: A Python-based graph theory project focusing on nanosatellite configurations.
+- **[Huffman CompDecomp with Ada](https://github.com/YanRabe/Huffman_CompDecomp_Project)**: An Ada project where we implemented the Huffman Compression algorithm, as well as its decompression counterpart.
+
 ## 🔗 Links
 - [![E-portfolio (TODO)](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yanrabe.github.io/)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-rabefaniraka-26467b331/)
